@@ -1,2 +1,1 @@
-# lessons
-Life lessons.
+# Life Lessons
